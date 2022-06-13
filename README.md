@@ -1,5 +1,5 @@
 # ![ScreenShot](images/Logo2.png) 
-# Voyage Voyage - End Project - Coding Academy by Epitech
+# Voyage Voyage - End Project 3 weeks - Coding Academy by Epitech
 ### Fanny THIBERT - Vladimira GROSJEAN - Samira TAIBI
 => A website like "TripAdvisor" 
 
